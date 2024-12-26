@@ -1,0 +1,11 @@
+*venv
+*env
+
+# Data science specific
+*.csv
+*.tsv
+*.parquet
+*.h5
+*.pickle
+*.ipynb_checkpoints
+
